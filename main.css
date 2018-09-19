@@ -9,6 +9,8 @@
     /*display:flex;*/
     background:rgb(94, 132, 148);
     height: 900px;
+    background-image: url("images/bg.jpg");
+
 }
 
 .login-div{
